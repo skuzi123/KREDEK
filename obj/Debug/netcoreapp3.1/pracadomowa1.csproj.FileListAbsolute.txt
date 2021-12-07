@@ -1,0 +1,14 @@
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.exe
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.deps.json
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.runtimeconfig.json
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.runtimeconfig.dev.json
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.dll
+D:\pracadomowa1\pracadomowa1\bin\Debug\netcoreapp3.1\pracadomowa1.pdb
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.csproj.AssemblyReference.cache
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.AssemblyInfoInputs.cache
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.AssemblyInfo.cs
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.csproj.CoreCompileInputs.cache
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.dll
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.pdb
+D:\pracadomowa1\pracadomowa1\obj\Debug\netcoreapp3.1\pracadomowa1.genruntimeconfig.cache

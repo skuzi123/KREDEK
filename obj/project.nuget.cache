@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nyy+wrXXaQbCTscN7Z3X3GgcPzEbLFcYp/fx8Kax8uP8PM8VKDnb1ePwx2BKBUEdGKLCBGFBXcJbqgPcFqUEFQ==",
+  "success": true,
+  "projectFilePath": "D:\\pracadomowa1\\pracadomowa1\\pracadomowa1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
